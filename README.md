@@ -11,6 +11,10 @@
   🎯 Passionate about clean code, smart automation & modern UX
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyntaxTears&theme=radical" alt="GitHub Streak" />
+</p>
+
 ---
 
 ### 🧩 Technology Stacks
@@ -63,13 +67,4 @@
 <p align="center"><b>️Cloud</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,gitlab,bitbucket" />
-</p>
-
----
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyntaxTears&theme=radical" alt="GitHub Streak" />
 </p>
