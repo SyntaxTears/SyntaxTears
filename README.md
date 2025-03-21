@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/SyntaxTears/SyntaxTears/main/img1_.png" height="150" />
 <h1 align="center">Hi there, I'm <a href="https://github.com/SyntaxTears">Vitalii
 </a> 👋</h1>
 
@@ -67,4 +68,7 @@
 <p align="center"><b>️Cloud</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,gitlab,bitbucket" />
+</p>
+<p align="right">
+  <img src="https://raw.githubusercontent.com/SyntaxTears/SyntaxTears/main/img2_.png" height="150" />
 </p>
